@@ -1,6 +1,6 @@
 # Neo Financial - Make Your Money Smater (Buisness case Study)
 
-https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png
+![Image1](https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png)
 
 ## Introduction
 
