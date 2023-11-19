@@ -38,7 +38,7 @@
 
 * Neo Financial utilizes 17 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack, and they are actively using 57 technologies for its website, according to builtwith. Neo uses out-of-the-box AWS services that seamlessly work together to create a modern architecture using serverless components that save time and reduce cost. Ususing scalable AWS services for its entire event allow each service to scale up and down with demand.
 
-![Image 2] (./Assignment/Module_1_Challenge/Asset\Neo1.jpg)
+![Image 2] (.//Assignment/Module_1_Challenge/Asset\Neo1.jpg)
 
 ## Landscape
 
