@@ -1,7 +1,8 @@
 # Neo Financial - Make Your Money Smater (case Study)
 
 ![Image 1] (https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png)
-####          A minimalist design of the Neo Financial credit card. Source: The Mad Capitalist.
+
+#### A minimalist design of the Neo Financial credit card. Source: The Mad Capitalist.
 
 ## Introduction
 
@@ -94,3 +95,7 @@
 
 * neo+financial. (n.d.). Retrieved from https://images.search.yahoo.com/search/images;_ylt=AwrNOazRcVll4FcRpjRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=neo%2Bfinancial&fr2=piv-web&type=E210US91166G0&fr=mcafee#id=39&iurl=https%3A%2F%2Fcdn.betakit.com%2Fwp-content%2Fuploads%2F2022%2F05%2FNeoFinancial_Profile_FINAL-005-1.jpg&action=click
 
+<<<<<<< HEAD
+=======
+* neo+financial. (n.d.). Retrieved from https://images.search.yahoo.com/search/images;_ylt=AwrNOazRcVll4FcRpjRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=neo%2Bfinancial&fr2=piv-web&type=E210US91166G0&fr=mcafee#id=39&iurl=https%3A%2F%2Fcdn.betakit.com%2Fwp-content%2Fuploads%2F2022%2F05%2FNeoFinancial_Profile_FINAL-005-1.jpg&action=click
+>>>>>>> 82391aa95ac5abdbf5ebed5090c437c6c122947b
