@@ -1,5 +1,7 @@
 # Neo Financial - Make Your Money Smater (Buisness case Study)
 
+https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png
+
 ## Introduction
 
 * I am writing a case study on the fintech company Neo financials technologies Inc.
@@ -84,3 +86,7 @@
 * Limited, F. (2023). Valuing Fintech Startups: Methods, Factors, and Metrics to Consider. Retrieved from https://www.finrofca.com/news/valuing-fintech-startups-methods-factors-and-metrics-to-consider
 
 * Unrau, H. (2023). KOHO vs Neo Financial: Who Wins the Battle for Your Buck? Retrieved from https://hardbacon.ca/en/banking/koho-vs-neo-financial/
+
+## Images ##
+
+* neo+financial. (n.d.). Retrieved from https://images.search.yahoo.com/search/images;_ylt=AwrNOazRcVll4FcRpjRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=neo%2Bfinancial&fr2=piv-web&type=E210US91166G0&fr=mcafee#id=39&iurl=https%3A%2F%2Fcdn.betakit.com%2Fwp-content%2Fuploads%2F2022%2F05%2FNeoFinancial_Profile_FINAL-005-1.jpg&action=click
