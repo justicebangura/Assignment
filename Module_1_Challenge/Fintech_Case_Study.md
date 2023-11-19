@@ -1,8 +1,8 @@
 # Neo Financial - Make Your Money Smater (case Study)
 
-![Image 1] (https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png)
+![Image 1](https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png)
 
-#### A minimalist design of the Neo Financial credit card. Source: The Mad Capitalist.
+* A minimalist design of the Neo Financial credit card. Source: The Mad Capitalist.
 
 ## Introduction
 
@@ -38,7 +38,7 @@
 
 * Neo Financial utilizes 17 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack, and they are actively using 57 technologies for its website, according to builtwith. Neo uses out-of-the-box AWS services that seamlessly work together to create a modern architecture using serverless components that save time and reduce cost. Ususing scalable AWS services for its entire event allow each service to scale up and down with demand.
 
-![Image 2] (./Assignment/Module_1_Challenge/Asset\Neo1.jpg)
+![Image 2](../../UofT-2023\Assignment\Module_1_Challenge\Asset\Neo1.jpg)
 
 ## Landscape
 
@@ -95,7 +95,3 @@
 
 * neo+financial. (n.d.). Retrieved from https://images.search.yahoo.com/search/images;_ylt=AwrNOazRcVll4FcRpjRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=neo%2Bfinancial&fr2=piv-web&type=E210US91166G0&fr=mcafee#id=39&iurl=https%3A%2F%2Fcdn.betakit.com%2Fwp-content%2Fuploads%2F2022%2F05%2FNeoFinancial_Profile_FINAL-005-1.jpg&action=click
 
-<<<<<<< HEAD
-=======
-* neo+financial. (n.d.). Retrieved from https://images.search.yahoo.com/search/images;_ylt=AwrNOazRcVll4FcRpjRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=neo%2Bfinancial&fr2=piv-web&type=E210US91166G0&fr=mcafee#id=39&iurl=https%3A%2F%2Fcdn.betakit.com%2Fwp-content%2Fuploads%2F2022%2F05%2FNeoFinancial_Profile_FINAL-005-1.jpg&action=click
->>>>>>> 82391aa95ac5abdbf5ebed5090c437c6c122947b
