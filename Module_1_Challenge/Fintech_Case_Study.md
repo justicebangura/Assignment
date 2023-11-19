@@ -1,4 +1,4 @@
-# Neo Financial - Make Your Money Smater (case Study)
+# Neo Financial - Make Your Money Smarter (Case Study)
 
 ![Image 1](https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png)
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-* I am writing a case study on the fintech company Neo financial technologies Inc.
+* I am writing a case study on the fintech company Neo Financial Technologies Inc (Neo financial, Neo).
 
 ### Table of content
 
@@ -18,54 +18,53 @@
 
 ## Overview and Origin
 
-* Neo Financial is a Canadian fintech company, with its headquarters in Calgery, Alberta.
+* Neo Financial is a Canadian fintech company located in Calgary, Alberta.
 
-* it was incorporated on October 1st 2019.
+* Neo was incorporated on October 1st, 2019.
 
 * Neo Financial was founded by Andrew Chau, Jeff Adamson, and Kris Read as a digital alternative to traditional banking.
 
 * Neo was created after Andrew and Jeff both experienced success in the Canadian start-up world, co-founding SkipTheDishes in 2012.
 
-* Neo Financial has raised a total of $235.8M in funding over 6 rounds. Their latest funding was raised on May 5, 2022 from a Series C round.
+* Neo Financial has raised $235.8M in funding over six rounds. Their latest funding round (Series C) happened on May 5th, 2022.
 
 ## Business Activities
 
-* Neo Financial seeks to revolutionize the traditional banking model by addressing pain points such as complex processes, fees, and lack of modern features in todays banking world.
+* Neo Financial seeks to revolutionize the traditional banking model by addressing pain points such as complex processes, fees, and lack of modern features in today's banking world.
 
-* Neo Financial intends to serve milenials and Canadians who arent happy with the service they receive from traditional banks "Every year, more than five million Canadians — roughly the population of Toronto make complaints against their banks."
+* Neo Financial intends to serve the generation of millennials and Canadians who are unhappy with the service they receive from traditional banks. "Every year, more than five million Canadians — roughly the population of Toronto make service complaints against their banks."
 
-* Neo provides banking solutions such as lower interest rates, and more transparency around customer fees. As as fintech company neo utilizes technology to create a bettter banking experience and platform with the purpose of challenging the traditional banking sphere.
+* Neo provides banking solutions such as lower interest rates and more transparency around customer fees. As a fintech company, Neo utilizes technology to create a better banking experience and platform that challenges the traditional banking sphere.
 
-* Neo Financial utilizes 17 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack, and they are actively using 57 technologies for its website, according to builtwith. Neo uses out-of-the-box AWS services that seamlessly work together to create a modern architecture using serverless components that save time and reduce cost. Ususing scalable AWS services for its entire event allow each service to scale up and down with demand.
+* "Neo Financial utilizes 17 technology products and services like HTML5, jQuery, and Google Analytics, according to G2 Stack, and they are actively using 57 technologies for its website, according to BuiltWith". Neo uses out-of-the-box AWS services that seamlessly work together to create a modern architecture using serverless components that save time and reduce cost. Using scalable AWS services for its entire event allows each service to scale up and down with demand.
 
 ![Image 2](../../UofT-2023\Assignment\Module_1_Challenge\Asset\Neo1.jpg)
 
 ## Landscape
 
-* Neo is in the Personal Finance, digital banking and deposits domain.
+* Neo is in the Personal Finance, digital banking, and deposits domain.
 
-* Over the last 5–10 years this domain has seen a growth in the adoptation of online and mobile banking to meet the needs of customers, it has also seen an increase in the use of contactles payment, and personal banking apps that often use Ai to advice customaers on budgeting and saving.
+* Over the last 5–10 years. This domain has seen a growth in the adaptation of online and mobile banking and has also seen an increase in the use of contactless payment and personal banking apps that often use AI to advise customers on budgeting and saving.
 
 * In this fintech domain, other competitors of Neo Financial include Koho, Mogo, NorthOne, and Wealthsimple.
 
 ## Results
 
-* So far, Neo Financial, is one of Canada’s best digital banks(Neobanks). and as a fintech company, they are able to save a lot of money on operating costs in comparison to traditional brick-and-mortar banks, which in turn leads to better interest rates and rewards for customers.
+* Neo Financial is one of the best digital banks(Neobanks). As a fintech company, they save money on operating costs compared to traditional brick-and-mortar banks, resulting in better banking interest rates and cash-back rewards for customers.
 
-* Some of the core metrics or Key performance metrics (Kpi) for companies in this fintech domain include but are not limited to User growth rate, Number of active users, Customer acquisition cost, Customer Lifetime Value and more!, despite beign a succesful fintech company and beign valued at over 1 billion dollars, Neo financial still strugles with low user rates especially for its flagship credit card. and this could be due to high customer acquisition cost in Canada.
+* Some of the core metrics or key performance metrics (KPI) for companies in this fintech domain include but are not limited to User growth rate, Number of active users, Customer acquisition cost, Customer Lifetime Value, and more! Despite being a successful fintech company valued at over 1 billion dollars, Neo Financial still struggles with low user rates, especially for its flagship credit card, And this could be due to high customer acquisition costs in Canada.
 
-* Neo financial compared to its competitors provides a higher interest rate on savings, better rate on cash back, more partner merchants, and integrated investing and mortgage platforms than others.  
+* Neo Financial has a  higher interest rate on savings, a better rate on cash back, more partner merchants, and integrated investing and mortgage platforms than others.  
 
 ## Recommendations
 
-* If I was to advice Neo financial I would recommend they improve on their customer support sytem by introducing an Ai driven, humanoid Chatbot(Voice), and beign a fully digital banking platform without a physical location can create issues with cutomer experience.
+* One advice I would give Neo Financial would be to recommend they improve their customer support system by introducing an AI-driven, humanoid Chatbot(Voice) system. Being a fully digital banking platform without a physical location can create issues with customer experience.
 
-* Providing this humanoid voice (chatbot) service will help Neo improve on its customer Retention and sattisfaction thereby reducing customer Aquisition cost.
+* This humanoid (chatbot) service will help Neo improve customer retention and satisfaction and reduce customer acquisition costs.
 
-* This service will use technologies like API, Pyhton chatGpt and other language models, Machine learning, Voice(speech) Synthesis and more.
+* This service will use technologies like API, Python, chatbot and other language models, Machine learning, Voice(speech) Synthesis, and more.
 
-* Why are these technologies appropriate for your solution? using API will allow the AI chatbot like ChatGPT and other language models to connect to the Neo platform, and with python we can create the development environment, and using machine learning we can specialize this new humanoid chatbot via voice synthesis and recognition to comunicate as customer service expert in digital finance.
-
+* Using API will allow an AI chatbot and other language models to connect to the Neo platform. We will use Python to create the development environment. With Machine Learning, we can specialize this new humanoid chatbot in the digital banking/investment domain, and via voice synthesis and speech recognition, it can communicate as a customer service expert.
 
 ### Resources
 
@@ -95,3 +94,4 @@
 
 * neo+financial. (n.d.). Retrieved from https://images.search.yahoo.com/search/images;_ylt=AwrNOazRcVll4FcRpjRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=neo%2Bfinancial&fr2=piv-web&type=E210US91166G0&fr=mcafee#id=39&iurl=https%3A%2F%2Fcdn.betakit.com%2Fwp-content%2Fuploads%2F2022%2F05%2FNeoFinancial_Profile_FINAL-005-1.jpg&action=click
 
+* Neo Financial credit card review: a better way to manage your expenses. (2022). Retrieved from https://themadcapitalist.com/neo-financial-credit-card-review/
