@@ -1,12 +1,13 @@
-# Neo Financial - Make Your Money Smater (Buisness case Study)
+# Neo Financial - Make Your Money Smater (case Study)
 
-https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png
+![Image 1] (https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576.png)
+####          A minimalist design of the Neo Financial credit card. Source: The Mad Capitalist.
 
 ## Introduction
 
-* I am writing a case study on the fintech company Neo financials technologies Inc.
+* I am writing a case study on the fintech company Neo financial technologies Inc.
 
-## Table of content
+### Table of content
 
 * Overview and Origin
 * Business Activities
@@ -36,6 +37,8 @@ https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576
 
 * Neo Financial utilizes 17 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack, and they are actively using 57 technologies for its website, according to builtwith. Neo uses out-of-the-box AWS services that seamlessly work together to create a modern architecture using serverless components that save time and reduce cost. Ususing scalable AWS services for its entire event allow each service to scale up and down with demand.
 
+![Image 2] (./Assignment/Module_1_Challenge/Asset\Neo1.jpg)
+
 ## Landscape
 
 * Neo is in the Personal Finance, digital banking and deposits domain.
@@ -63,7 +66,7 @@ https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576
 * Why are these technologies appropriate for your solution? using API will allow the AI chatbot like ChatGPT and other language models to connect to the Neo platform, and with python we can create the development environment, and using machine learning we can specialize this new humanoid chatbot via voice synthesis and recognition to comunicate as customer service expert in digital finance.
 
 
-### Citation
+### Resources
 
 * XihaoZhang. (2023). Neo Financial. Retrieved from https://wikitia.com/wiki/Neo_Financial
 
@@ -87,6 +90,7 @@ https://themadcapitalist.com/wp-content/uploads/2022/06/neo-financial-2-1024x576
 
 * Unrau, H. (2023). KOHO vs Neo Financial: Who Wins the Battle for Your Buck? Retrieved from https://hardbacon.ca/en/banking/koho-vs-neo-financial/
 
-## Images ##
+## Images
 
 * neo+financial. (n.d.). Retrieved from https://images.search.yahoo.com/search/images;_ylt=AwrNOazRcVll4FcRpjRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=neo%2Bfinancial&fr2=piv-web&type=E210US91166G0&fr=mcafee#id=39&iurl=https%3A%2F%2Fcdn.betakit.com%2Fwp-content%2Fuploads%2F2022%2F05%2FNeoFinancial_Profile_FINAL-005-1.jpg&action=click
+
